@@ -1,13 +1,20 @@
 .navbar-band img{
   height: 50px;
 }
-.profile{
-  color: red;
-}
 .row img{
   height: 300px;
   width: 300px;
 }
-.col-9 h3{
+.col-9{
 margin-top: 150px;
+color: white;
+}
+#profile{
+/*  background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7));*/
+background-image: url(background.jpg);
+  background-size:350px 800px;
+}
+.col{
+  margin-left: 300px;
+  color: white;
 }
